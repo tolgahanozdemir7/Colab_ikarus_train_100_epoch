@@ -1,0 +1,5 @@
+train: C:\Users\Lenovo\Desktop\colab_ikarus/train_noisy/images
+val: C:\Users\Lenovo\Desktop\colab_ikarus/valid_noisy/images
+test: C:\Users\Lenovo\Desktop\colab_ikarus/test_noisy/images
+nc: 1
+names: ['object']
